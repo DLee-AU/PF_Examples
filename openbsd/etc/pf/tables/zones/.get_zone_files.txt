@@ -1,0 +1,6 @@
+# Depending on you needs
+# You can make you own or get them from someplace like 
+# http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz
+# http://www.ipdeny.com/ipv6/ipaddresses/blocks/ipv6-all-zones.tar.gz
+
+
